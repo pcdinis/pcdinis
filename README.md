@@ -22,8 +22,7 @@ Feel free to contact me. 💬
 
 More projects to come... 🚀
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pcdinis&langs_count=8&theme=dark&layout=compact&hide=ShaderLab,HLSL)](https://github.com/pcdinis/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pcdinis&langs_count=8&theme=dark&layout=compact&hide=ShaderLab,HLSL)
 
 
 <!--
