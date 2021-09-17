@@ -18,6 +18,9 @@ But that's not all as I like to explore another stuff within my spare time:
 * Home Automation: ... using Shelly devices and Google Home! Looking forward to use Shelly scripts new feature! 🏠
 * Mastering Rubiks Cube: I'm a 2 minutes solver guy... not a speed cuber! 🧩
 
+Feel free to contact me. 💬
+
+More projects to come... 🚀
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pcdinis&langs_count=8&theme=dark&layout=compact&hide=ShaderLab,HLSL)](https://github.com/pcdinis/github-readme-stats)
 
