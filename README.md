@@ -3,8 +3,8 @@
 ### Welcome to my Github profile!
 
 My name is Paulo and I'm a SAP developer.
-I live in Portugal 🇵🇹 and work for one of the best companies ever: 
-🟠 @DeployKnowledgeConsulting 🟠
+I live in Portugal 🇵🇹 and work for one of the best companies ever:
+🟠@DeployKnowledgeConsulting🟠
 
 On my day to day basis i'm  working on the following languages/technologies:
 * ABAP
