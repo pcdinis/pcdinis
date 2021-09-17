@@ -8,13 +8,16 @@ I live in Portugal 🇵🇹 and work for one of the best companies ever:
 
 On my day to day basis i'm  working on the following languages/technologies:
 * ABAP
-* JS (OpenUI5/SAPUI5)
 * HANA DB
+* Javascript (OpenUI5/SAPUI5)
+* HTML
+* CSS
 
 But that's not all as I like to explore another stuff within my spare time:
 * Unity software: I'm a huge fun of Unity... so just check out on some of my game developer (wannabe 🤓) projects!
 * Home Automation: ... using Shelly devices and Google Home! Looking forward to use Shelly scripts new feature! 🏠
 * Mastering Rubiks Cube: I'm a 2 minutes solver guy... not a speed cuber! 🧩
+
 
 
 
