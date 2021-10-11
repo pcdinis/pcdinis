@@ -42,4 +42,4 @@ Here are some ideas to get you started:
 
 #### SAP Badges
 
-![SAP Badges](https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/showcaseBadges/pcdinis?png=true)
+![SAP Badges](https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/showcaseBadges/pcdinis)
